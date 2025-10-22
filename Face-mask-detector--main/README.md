@@ -41,8 +41,8 @@ HTML (for rendering the stream)
 
 1. Clone the repository
 
-git clone https://github.com/bharath20056/Face-mask-detection.git
-cd face-mask-detection
+git clone https://github.com/abhinav9m/Face-mask.git
+cd face-mask
 
 2. Create a virtual environment (optional but recommended)
 
